@@ -2923,9 +2923,13 @@ input, select, textarea {
 			font-style: italic;
 		}
 		*/
-
 		.italic {
 			font-style: italic;
+		}
+
+		header img {
+			border-radius: 22.5%;
+			width: 10%;
 		}
 
 		header > h1 + p {
